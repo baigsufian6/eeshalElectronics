@@ -49,7 +49,7 @@ const Navbar = () => {
               <rect x="42" y="22" width="8" height="6" fill="#488D94" rx="1" />
             </svg>
           </div>
-          <span className="logo-text">SecurView</span>
+          <span className="logo-text">Eeshal Electronics</span>
         </div>
 
         {/* Hamburger menu button for mobile */}
